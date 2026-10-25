@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547772040753",
+    "project_id": "kanz-app-632d9",
+    "storage_bucket": "kanz-app-632d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547772040753:android:dca36a732a30f8cf3ff710",
+        "android_client_info": {
+          "package_name": "com.example.kanzminingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVx2MJhhe0Hyi9D34BwyJlme_tCxeFDAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
